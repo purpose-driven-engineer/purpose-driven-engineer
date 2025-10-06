@@ -1,5 +1,5 @@
 <h1>Hi, I'm Ola 👋</h1>
-<h3>Java Software Engineer <br /> Cloud Architect (AWS, GCP & Microsoft Azure) <br /> Enterprise Achitect</h3>
+<h3>Java Engineer <br /> Cloud (GCP) & Data (Snowflake) Engineer <br /> Enterprise Achitect (TOGAF v9)</h3>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/657c2fc15145316d250899fd?variant=dark&roadmaps=java%2Cbackend%2Csoftware-architect%2Csoftware-design-architecture)](https://roadmap.sh)
 

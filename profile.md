@@ -1,6 +1,8 @@
 <h1>Hi, I'm Ola 👋</h1>
 <h3>Java Software Engineer <br /> Cloud Architect (AWS, GCP & Microsoft Azure) <br /> Enterprise Achitect</h3>
 
+[![roadmap.sh](https://roadmap.sh/card/wide/657c2fc15145316d250899fd?variant=dark&roadmaps=java%2Cbackend%2Csoftware-architect%2Csoftware-design-architecture)](https://roadmap.sh)
+
 <h4 align="left">Let's Connect:</h4>
 <p align="left">
 <a href="https://twitter.com/progzillax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progzillax" height="30" width="40" /></a>

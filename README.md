@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=0:1e90ff,100:00bfff&text=Hi,%20I'm%20S4IL&fontColor=ffffff&desc=Python%20•%20Automation%20•%20AI%20•%20Creativity&descAlign=50&fontAlign=50&fontAlignY=45](https://media.licdn.com/dms/image/v2/D4E16AQE_X06AQU-xSQ/profile-displaybackgroundimage-shrink_350_1400/B4EZp85wqOGcAc-/0/1763032108693?e=1764806400&v=beta&t=vqF0KeYlsA84M-_4NbmIL2sMnSt-LRzi6uMANdEUNmw)" width="100%" alt="header"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQE_X06AQU-xSQ/profile-displaybackgroundimage-shrink_350_1400/B4EZp85wqOGcAc-/0/1763032108693?e=1764806400&v=beta&t=vqF0KeYlsA84M-_4NbmIL2sMnSt-LRzi6uMANdEUNmw" width="100%" alt="header"/>
 </p>
 <h3>Java Engineer  (Big Data / Distributed Systems)</h3>
 
